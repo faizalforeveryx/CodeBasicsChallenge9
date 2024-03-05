@@ -22,7 +22,7 @@ This repository contains files related to Challenge 9 from CodeBasics. It includ
   - Execute the SQL queries in your preferred SQL environment (e.g., SQL Server Management Studio, MySQL Workbench) to perform the adhoc activities specified in Challenge 9.
 
 ## Contributors
-- [Abdullah Faizal](https://www.linkedin.com/in/abdullah-faizal-9160a546/) - https://github.com/faizalforeveryx/CodeBasicsChallenge9
+- [Abdullah Faizal](https://www.linkedin.com/in/abdullah-faizal-9160a546/) - [GitHub](https://github.com/faizalforeveryx/CodeBasicsChallenge9)
 
 ## Feedback
 If you have any feedback, questions, or suggestions regarding the files or the challenge, feel free to open an issue or contact the contributors directly.

@@ -9,7 +9,10 @@ This repository contains files related to Challenge 9 from CodeBasics. It includ
 - **codebasics.pbix**: This file contains the Power BI dashboard described in Challenge 9. You can download and view the dashboard using Power BI Desktop or an online Power BI service.
 
 ### SQL Adhoc Activities
-- **codebasics.sql**: This file contains SQL queries for adhoc activities specified in Challenge 9. You can use this SQL script to perform the specified tasks.
+- **codebasics.sql**: This file contains SQL queries for adhoc activities specified in Challenge 9.
+
+### SQL of Power BI Tasks
+- **ExtraPBixQueries.sql**: This file contains SQL queries for Power BI tasks.
 
 ## Instructions
 - **Power BI Dashboard**: 
